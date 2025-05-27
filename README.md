@@ -79,6 +79,15 @@
   GET	/api/messages	Get all messages
   
   POST	/api/messages	Post a new message
+
+**Screenshots**
+![image](https://github.com/user-attachments/assets/a481d6a6-781f-47c5-9930-e5bc7bb5334f)
+![image](https://github.com/user-attachments/assets/52b6a2a8-eb10-4759-b29d-1b8277d2d5ec)
+![image](https://github.com/user-attachments/assets/5dcbd4a6-3540-4fbd-b4a4-cbb2a7a764c8)
+![image](https://github.com/user-attachments/assets/540cc536-aab8-4f15-80b2-f397c03f0917)
+
+
+
   
   **🧑‍💻 Author**
     **Siddharth Trivedi**
